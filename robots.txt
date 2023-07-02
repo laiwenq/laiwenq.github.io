@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laiwenq.github.io/sitemap.xml
